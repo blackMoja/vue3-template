@@ -1,12 +1,12 @@
 <template>
-  <router-view />
+  Main.vue
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'App',
+  name: 'Main',
   components: {}
 })
 </script>
